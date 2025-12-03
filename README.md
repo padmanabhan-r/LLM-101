@@ -109,6 +109,19 @@ By completing these tutorials, you'll understand:
 - The role of embeddings in neural language models
 - Key concepts used in modern LLMs like GPT
 
+## 🚧 Roadmap
+
+**More tutorials coming soon!** Future topics will include:
+- Attention mechanisms and self-attention
+- Transformer architecture from scratch
+- Multi-head attention
+- Layer normalization and residual connections
+- Building a complete GPT-style model
+- Training and fine-tuning strategies
+- Evaluation and inference
+
+*Stay tuned for updates as we continue building toward a complete LLM implementation!*
+
 ## 📝 License
 
 This project is for educational purposes. The text data is sourced from Project Gutenberg and is in the public domain.
