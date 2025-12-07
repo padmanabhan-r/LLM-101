@@ -122,14 +122,6 @@ By completing these tutorials, you'll understand:
 
 *Stay tuned for updates as we continue building toward a complete LLM implementation!*
 
-## 📝 License
-
-This project is for educational purposes. The text data is sourced from Project Gutenberg and is in the public domain.
-
-## 🤝 Contributing
-
-Feel free to open issues or submit pull requests if you find errors or have suggestions for improvements!
-
 ## 📧 Contact
 
 Repository maintained by [padmanabhan-r](https://github.com/padmanabhan-r)
